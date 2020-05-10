@@ -16,7 +16,7 @@ A memory management practice
 ## HW5
 Implementing Dynamic Array, Binary Search Tree, and Doubly Linked List
 
-## Hw6
+## HW6
 Simple circuit netlist manager
 
 ## HW7
