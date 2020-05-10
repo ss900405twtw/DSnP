@@ -1,5 +1,5 @@
 # DSnP
-Data Structure and Programming (2019 Spring) @ National Taiwan University  
+Data Structure and Programming (2019 Spring) @ NTUEE  
 
 ## HW1
 C++ - Implement a JSON reader
